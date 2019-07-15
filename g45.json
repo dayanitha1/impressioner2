@@ -1,1 +1,1 @@
-alert("G45");
+console.log("-");
